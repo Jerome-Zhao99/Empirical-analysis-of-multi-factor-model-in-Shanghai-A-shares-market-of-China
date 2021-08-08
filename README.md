@@ -1,0 +1,2 @@
+# Empirical-analysis-of-multi-factor-model-in-Shanghai-A-shares-market-of-China
+Based on the financial data and market data of the stock in Shanghai Stock market from January 2020 to June 2020, a multi-factor stock selection model under Alpha strategy was established. The strategy was written in Python and then tested back on the quantitative trading platform.The yield curve of the strategy is very stable, which basically hedges the market risks brought by COVID-19 and achieves the purpose of preventing major risks.
